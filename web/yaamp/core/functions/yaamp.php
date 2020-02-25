@@ -55,6 +55,7 @@ function yaamp_get_algos()
 		'x17',
 		'x22i',
 		'x21s',
+		'x25x',
 		'xevan',
 		'groestl', // dmd-gr -m 256 (deprecated)
 		'dmd-gr',
