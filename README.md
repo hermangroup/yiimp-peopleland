@@ -131,7 +131,15 @@ Thanks to globalzon to have released the initial Yaamp source code.
 
 --
 
-You can support this project donating to tpruvot :
+Help us on this project with your Donations :
 
-BTC : 1Auhps1mHZQpoX4mCcVL8odU81VakZQ6dR
+BTC : 12BxtFhNqC8Lqx7cbgK8xcbUHkk8j9HXbh
+
+ETH : 0xd7641cf199bfe871d4df8ac15d28012031099c51
+
+LTC : LXuxApJHCfvgtR7NbsED8rCWx95jaU3YqU
+
+BCH : qpz7kcvxd03ncfm2t566dtulgqaykns50ucx0k5xpk
+
+RVN : RNU6wfcDD5LGDxKYBPaMBDYPYq4kJep1Fy
 
