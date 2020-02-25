@@ -480,4 +480,3 @@ void *stratum_thread(void *p)
 		pthread_detach(thread);
 	}
 }
-
