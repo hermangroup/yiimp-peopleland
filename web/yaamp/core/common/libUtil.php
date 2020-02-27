@@ -51,7 +51,7 @@ function getrenterparam($address)
 {
 	if(empty($address)) return null;
 
-	$address = trim(substr($address, 0, 98));
+	$address = trim(substr($address, 0, 52));
 	$renter = getdbosql('db_renters', "address=:ad", array(':ad'=>$address));
 
 	return $renter;
