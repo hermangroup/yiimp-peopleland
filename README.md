@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/tpruvot/yiimp.svg?branch=next)](https://travis-ci.org/tpruvot/yiimp)
 
-#yiimp - yaamp fork
+#yiimp - yaamp fork - Updated with x16rv2 + x21s + x25x
 
 WARNINGS
 - Use at your own risks.
